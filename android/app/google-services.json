@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "672258793605",
+    "project_id": "hostelhive-1eb99",
+    "storage_bucket": "hostelhive-1eb99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672258793605:android:f1da13bc4734e86a4e89ec",
+        "android_client_info": {
+          "package_name": "com.example.hostelhive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672258793605-ven2jsv487cs4lksgjfdql7kqu2cd4e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hostelhive",
+            "certificate_hash": "63b22068a12e24a1859126e1db8413f5787e1708"
+          }
+        },
+        {
+          "client_id": "672258793605-qfo0ocs8gij3u04sfuouv2itjh5cne8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnDyOV7wwp1RF4cYyT8zyi7fFVKfXl6ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672258793605-qfo0ocs8gij3u04sfuouv2itjh5cne8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
